@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9e8923c-8b5b-4a62-92e9-d32aebc04823" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_en_2015.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_en_2015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_en_2016.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_en_2016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_en_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_en_2017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_en_2018.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_en_2018.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_en_2019.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_en_2019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_ja_2015.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_ja_2015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_ja_2016.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_ja_2016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_ja_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_ja_2017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/all_ja_2019.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/all_ja_2019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ranking_data/all/yobi.json" beforeDir="false" afterPath="$PROJECT_DIR$/ranking_data/all/yobi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screens/allSecondScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screens/allSecondScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screens/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screens/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/screens/secondScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/screens/secondScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kv3WxIaq1k4SeWrmjyWwf56X2e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9e8923c-8b5b-4a62-92e9-d32aebc04823" name="Default Changelist" comment="" />
+      <created>1606567272365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606567272365</updated>
+    </task>
+    <servers />
+  </component>
+</project>

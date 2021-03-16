@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/qingyang/AndroidStudioProjects/world-athlete-time/build/admob_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/qingyang/.gradle/caches/transforms-2/files-2.1/2d38cbd0a8bdd515f55ba6f4356586bb/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/qingyang/AndroidStudioProjects/world-athlete-time/build/admob_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/qingyang/.gradle/caches/transforms-2/files-2.1/2d38cbd0a8bdd515f55ba6f4356586bb/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/qingyang/AndroidStudioProjects/world-athlete-time/build/admob_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/qingyang/.gradle/caches/transforms-2/files-2.1/2d38cbd0a8bdd515f55ba6f4356586bb/jetified-play-services-base-16.0.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

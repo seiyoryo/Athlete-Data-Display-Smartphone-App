@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89ec6fcc-cf10-4c21-a0ee-f032541e8006" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/athlete_data/soccer_en.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/athlete_data/soccer_en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2015.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2016.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2018.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2018.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2019.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_en_2019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2015.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2015.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2016.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2016.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2017.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2017.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2019.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/all_ja_2019.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/ranking_data/all/yobi.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/ranking_data/all/yobi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/allSecondScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/allSecondScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/secondScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/secondScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kti8bsKQOxQT0oq2FSbmAI70wW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89ec6fcc-cf10-4c21-a0ee-f032541e8006" name="Default Changelist" comment="" />
+      <created>1606526129261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606526129261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1870" height="410" key="GridCell.Tab.0.bottom" timestamp="1606572097333">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="410" key="GridCell.Tab.0.bottom/0.0.1440.900/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1606572097333" />
+    <state width="1353" height="315" key="GridCell.Tab.0.bottom/37.23.1403.877/-310.-1057.1920.1057@37.23.1403.877" timestamp="1606528448729" />
+    <state width="1870" height="410" key="GridCell.Tab.0.center" timestamp="1606572097331">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="410" key="GridCell.Tab.0.center/0.0.1440.900/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1606572097331" />
+    <state width="1353" height="315" key="GridCell.Tab.0.center/37.23.1403.877/-310.-1057.1920.1057@37.23.1403.877" timestamp="1606528448728" />
+    <state width="1870" height="410" key="GridCell.Tab.0.left" timestamp="1606572097330">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="410" key="GridCell.Tab.0.left/0.0.1440.900/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1606572097330" />
+    <state width="1353" height="315" key="GridCell.Tab.0.left/37.23.1403.877/-310.-1057.1920.1057@37.23.1403.877" timestamp="1606528448727" />
+    <state width="1870" height="410" key="GridCell.Tab.0.right" timestamp="1606572097332">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="410" key="GridCell.Tab.0.right/0.0.1440.900/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1606572097332" />
+    <state width="1353" height="315" key="GridCell.Tab.0.right/37.23.1403.877/-310.-1057.1920.1057@37.23.1403.877" timestamp="1606528448728" />
+    <state x="649" y="-899" width="790" height="849" key="find.popup" timestamp="1606567896948">
+      <screen x="-271" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="649" y="-899" width="790" height="849" key="find.popup/0.0.1440.900/-271.-1080.1920.1080@-271.-1080.1920.1080" timestamp="1606567896948" />
+  </component>
+</project>

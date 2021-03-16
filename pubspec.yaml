@@ -1,0 +1,107 @@
+name: flutter_app_finaltest
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependency_overrides:
+  intl: 0.17.0-nullsafety.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+
+  intl: 0.16.1
+  flutter_svg: ^0.18.1
+  translator: ^0.1.5
+  firebase_admob: ^0.9.3+4
+  firebase_core: ^0.4.0+9
+  admob_flutter: "^0.3.4"
+
+  intl_translation: ^0.17.10+1
+  video_player: ^0.11.1+4
+  audioplayers: ^0.16.1
+  audioplayer: 0.8.1
+  cupertino_icons: ^0.1.3
+  page_transition: ^1.1.7+2
+  flutter_picker_view: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: any
+
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/flag/
+    - assets/data/athlete_data/
+    - assets/data/ranking_data/
+    - assets/data/ranking_data/all/
+    - assets/data/ranking_data/basketball/
+    - assets/data/ranking_data/baseball/
+    - assets/data/ranking_data/boatrace/
+    - assets/data/ranking_data/boxing/
+    - assets/data/ranking_data/esport/
+    - assets/data/ranking_data/f1/
+    - assets/data/ranking_data/golf/
+    - assets/data/ranking_data/horse/
+    - assets/data/ranking_data/mlb/
+    - assets/data/ranking_data/nfl/
+    - assets/data/ranking_data/rugby/
+    - assets/data/ranking_data/soccer/
+    - assets/data/ranking_data/sumo/
+    - assets/data/ranking_data/tennis/
+    - assets/data/ranking_data/cricket/
+    - assets/data/ranking_data/mma/
+    - assets/data/ranking_data/basketball/
+    - assets/data/ranking_data/jockey/
+    - assets/images/picture/
+    - assets/images/picture/all/
+    - assets/images/picture/basketball/
+    - assets/images/picture/baseball/
+    - assets/images/picture/boatrace/
+    - assets/images/picture/boxing/
+    - assets/images/picture/esport/
+    - assets/images/picture/f1/
+    - assets/images/picture/golf/
+    - assets/images/picture/horse/
+    - assets/images/picture/mlb/
+    - assets/images/picture/nfl/
+    - assets/images/picture/rugby/
+    - assets/images/picture/soccer/
+    - assets/images/picture/sumo/
+    - assets/images/picture/tennis/
+    - assets/images/picture/cricket/
+    - assets/images/picture/mma/
+    - assets/images/picture/basketball/
+    - assets/images/picture/jockey/
+    - assets/music/
+    - assets/videos/
+    - assets/images/arrows/
+    - assets/images/bcgimg/
+    - assets/images/launcher/
+    -
+
+
+flutter_intl:
+  enabled: true
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_logo.png"
